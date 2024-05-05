@@ -1,6 +1,6 @@
 ---                              R E C O I L  C O N T R O L                               ----
 
-EnableRCS = true --- When Set to false, it'll turn off Recoil Control!
+EnableRCS = true --- When Set to True, it'll turn off Recoil Control!
 
 RecoilControlMode = "High" --- Presets: "Low", "Medium", "High", "Ultra", "Insanity", "Custom"
 
